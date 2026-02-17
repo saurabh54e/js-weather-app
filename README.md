@@ -42,4 +42,5 @@ A responsive weather application built using HTML, CSS, and Vanilla JavaScript t
 <img width="1710" height="983" alt="Screenshot 2026-02-17 at 11 06 47 PM" src="https://github.com/user-attachments/assets/61793f15-e383-450a-bd03-d29238fef8be" />
 
 
-
+🌍 Live Demo
+https://saurabh-js-weather.netlify.app/
